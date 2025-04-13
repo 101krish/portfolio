@@ -106,15 +106,14 @@ export default function Hero() {
                   <Button className="cursor-pointer">Learn More</Button>
                 </a>
                 <a
-                
-                   href="/resume.pdf"
-                   target="_blank"
-  
-                   rel="noopener noreferrer"
-                 
-                >
-                  <Button className="cursor-pointer">Get Resume</Button>
-                </a>
+  href="/resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{ zIndex: 50, position: "relative" }}
+>
+  <Button className="cursor-pointer">Get Resume</Button>
+</a>
+
               </div>
             </div>
 
