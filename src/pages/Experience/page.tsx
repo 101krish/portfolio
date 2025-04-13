@@ -1,5 +1,5 @@
 import { Card } from "@/components/ui/card";
-import { Briefcase, Calendar, Code } from "lucide-react";
+import { Briefcase, Calendar} from "lucide-react";
 import { ReactNode } from "react";
 import { useTheme } from "../../provider/page";
 import { motion } from "framer-motion";
