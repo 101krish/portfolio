@@ -10,7 +10,7 @@ import {
   Cpu,
   Cloud,
   Sparkles,
-  Layers,
+
   GitBranch,
   Server,
   Globe,
@@ -20,7 +20,7 @@ import {
   CloudCog,
 } from "lucide-react";
 
-import { FaDigitalTachograph, FaDocker, FaLinux } from "react-icons/fa";
+import { FaDocker, FaLinux } from "react-icons/fa";
 import { RiNextjsLine } from "react-icons/ri";
 import {
   SiTypescript,
@@ -28,8 +28,6 @@ import {
   SiPostgresql,
   SiMongodb,
   SiGraphql,
-  SiJest,
-  SiWebpack,
   SiRedux,
   SiFirebase,
   SiVercel,
