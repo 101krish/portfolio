@@ -32,13 +32,13 @@ const ProjectShowcase = () => {
     },
     {
       title:
-        "A sleek portfolio built with React and Tailwind CSS to showcase your skills",
+        "AI Finance Tracker Platform",
       description:
-        "This portfolio is a sleek and modern showcase of my skills and projects. It's built with React and Tailwind CSS, providing a clean and professional look that reflects my professional brand.",
-      tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
+        "Welth is an AI-powered personal finance tracker that helps users monitor spending, analyze trends, and manage budgets effortlessly. Built with Clerk for auth, Inngest for automation, and deployed on Vercel, it delivers real-time insights and a seamless user experience.",
+      tags: ["Next.js", "Inngest", "Clerk ", "vercel"],
       links: {
-        github: "https://github.com/seraprogrammer/portfolio",
-        demo: "https://codervai.vercel.app/",
+        github: "https://github.com/101krish/Ai-Finance-Tracker",
+        demo: "https://ai-finance-tracker-phi.vercel.app/",
       },
       image: portfolio,
       featured: true,
