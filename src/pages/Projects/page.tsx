@@ -34,7 +34,7 @@ const ProjectShowcase = () => {
       title:
         "AI Finance Tracker Platform",
       description:
-        "Welth is an AI-powered personal finance tracker that helps users monitor spending, analyze trends, and manage budgets effortlessly. Built with Clerk for auth, Inngest for automation, and deployed on Vercel, it delivers real-time insights and a seamless user experience.",
+        "Stay on top of your finances with AI-powered insights, effortless expense tracking, and clear visual breakdowns. Welth helps you understand your money and make smarter decisions — automatically.",
       tags: ["Next.js", "Inngest", "Clerk ", "vercel"],
       links: {
         github: "https://github.com/101krish/Ai-Finance-Tracker",
@@ -45,12 +45,12 @@ const ProjectShowcase = () => {
     },
     {
       title:
-        "Comming Soon",
-      description:"Wait For Some Time For The Blast !!!",
-      tags: ["", " ", "", ""],
+        "Sensei",
+      description:"An AI-powered platform to supercharge your job hunt — generate tailored cover letters, get career advice, and track applications.",
+      tags: ["Next.js", "Prisma", "Clerk", "Gemini AI"],
       links: {
-        github: "",
-        demo: "",
+        github: "https://github.com/101krish/Sensei",
+        demo: "https://sensei-liard-delta.vercel.app/",
       },
       image: codekori,
       featured: true,
