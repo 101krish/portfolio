@@ -25,7 +25,7 @@ const ProjectShowcase = () => {
       tags: ["Vapi", "Next.js", "Web Development"],
       links: {
         github: "https://github.com/101krish/AI-voice-mock-interview-preparation",
-        demo: "https://ai-voice-mock-interview-preparation-krishs-projects-f5177f25.vercel.app/sign-in",
+        demo: "https://ai-voice-mock-interview-preparation-yh-krishs-projects-f5177f25.vercel.app/sign-in",
       },
       image: olova,
       featured: true,
@@ -50,7 +50,7 @@ const ProjectShowcase = () => {
       tags: ["Next.js", "Prisma", "Clerk", "Gemini AI"],
       links: {
         github: "https://github.com/101krish/Sensei",
-        demo: "https://sensei-liard-delta.vercel.app/",
+        demo: "https://sensei-448g.vercel.app/",
       },
       image: codekori,
       featured: true,
